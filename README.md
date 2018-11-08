@@ -1,10 +1,7 @@
-Slides for a 3D talk featuring WebGL to illustrate how 3D graphics are rendered. Still needs tuning.
+Template for animated presentation slides.
 
-And I really need to learn how to do proper Javascript.
-
-You can view it online, although some slides are not rendered correctly that way:
-
-http://rawgit.com/Gnurou/3dgraphics-talk/master/index.html
+Originally based on work by Alexandre Courbot a.k.a. "Gnurou".
+See https://github.com/Gnurou/3dgraphics-talk for original content.
 
 How to sync for offline use:
 
@@ -13,7 +10,7 @@ How to sync for offline use:
     git submodule init
     git submodule update
 
-Then open index.html in Firefox (only Firefox renders this properly for now). Use enter or right to progress. Space allows you to skip whole slides that feature animations.
+Then open index.html in Firefox (other are browsers untested). Use enter or right to progress. Space allows you to skip whole slides that feature animations.
 
 Projects used:
 * Reveal.js
